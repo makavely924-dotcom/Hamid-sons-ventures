@@ -1,0 +1,12 @@
+{
+  "name": "hamid-sons-ventures-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "better-sqlite3": "^11.7.0"
+  }
+}
